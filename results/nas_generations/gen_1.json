@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1764780532543_2828",
+    "genes": {
+      "model_type": "gru",
+      "hidden_size": 32,
+      "num_layers": 1,
+      "dropout": 0.4,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.05154471510655053,
+      4449,
+      1
+    ],
+    "rank": 0
+  },
+  {
+    "id": "1764780532543_2244",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 256,
+      "num_layers": 3,
+      "dropout": 0.0,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.03354237082324655,
+      344705,
+      3
+    ],
+    "rank": 0
+  },
+  {
+    "id": "1764780132441_7850",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 64,
+      "num_layers": 4,
+      "dropout": 0.0,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.035552609470653106,
+      48065,
+      4
+    ],
+    "rank": 0
+  },
+  {
+    "id": "1764780532543_6401",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 32,
+      "num_layers": 2,
+      "dropout": 0.3,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.03768085943681392,
+      27297,
+      2
+    ],
+    "rank": 0
+  },
+  {
+    "id": "1764780132441_1470",
+    "genes": {
+      "model_type": "lstm",
+      "hidden_size": 32,
+      "num_layers": 1,
+      "dropout": 0.4,
+      "bidirectional": true
+    },
+    "fitness": [
+      0.047229838154065173,
+      11841,
+      1
+    ],
+    "rank": 0
+  },
+  {
+    "id": "1764780362108_4638",
+    "genes": {
+      "model_type": "gru",
+      "hidden_size": 32,
+      "num_layers": 1,
+      "dropout": 0.4,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.05161586334217092,
+      4449,
+      1
+    ],
+    "rank": 1
+  },
+  {
+    "id": "1764780132441_5644",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 256,
+      "num_layers": 3,
+      "dropout": 0.0,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.03360282307934907,
+      344705,
+      3
+    ],
+    "rank": 1
+  },
+  {
+    "id": "1764780532543_76",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 64,
+      "num_layers": 4,
+      "dropout": 0.0,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.036254925762099544,
+      48065,
+      4
+    ],
+    "rank": 1
+  },
+  {
+    "id": "1764780362108_396",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 32,
+      "num_layers": 2,
+      "dropout": 0.3,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.03855918785658037,
+      27297,
+      2
+    ],
+    "rank": 1
+  },
+  {
+    "id": "1764780532543_5589_mut",
+    "genes": {
+      "model_type": "lstm",
+      "hidden_size": 32,
+      "num_layers": 1,
+      "dropout": 0.2,
+      "bidirectional": true
+    },
+    "fitness": [
+      0.04736595384428938,
+      11841,
+      1
+    ],
+    "rank": 1
+  },
+  {
+    "id": "1764780532543_7837",
+    "genes": {
+      "model_type": "gru",
+      "hidden_size": 32,
+      "num_layers": 1,
+      "dropout": 0.4,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.05306819531326765,
+      4449,
+      1
+    ],
+    "rank": 2
+  },
+  {
+    "id": "1764780362108_3363",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 256,
+      "num_layers": 3,
+      "dropout": 0.0,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.0338521877110504,
+      344705,
+      3
+    ],
+    "rank": 2
+  },
+  {
+    "id": "1764780132441_2490",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 32,
+      "num_layers": 4,
+      "dropout": 0.3,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.03860924770301135,
+      27297,
+      4
+    ],
+    "rank": 2
+  },
+  {
+    "id": "1764780532543_4111",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 32,
+      "num_layers": 2,
+      "dropout": 0.3,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.040771148762636704,
+      27297,
+      2
+    ],
+    "rank": 2
+  },
+  {
+    "id": "1764780532543_7247",
+    "genes": {
+      "model_type": "lstm",
+      "hidden_size": 32,
+      "num_layers": 1,
+      "dropout": 0.4,
+      "bidirectional": true
+    },
+    "fitness": [
+      0.04897940315919669,
+      11841,
+      1
+    ],
+    "rank": 2
+  },
+  {
+    "id": "1764780532543_8006",
+    "genes": {
+      "model_type": "gru",
+      "hidden_size": 32,
+      "num_layers": 1,
+      "dropout": 0.4,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.05394763233621847,
+      4449,
+      1
+    ],
+    "rank": 3
+  },
+  {
+    "id": "1764780362108_9314_mut",
+    "genes": {
+      "model_type": "attention",
+      "hidden_size": 256,
+      "num_layers": 1,
+      "dropout": 0.1,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.05156964688875068,
+      921345,
+      1
+    ],
+    "rank": 3
+  },
+  {
+    "id": "1764780362108_7279",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 256,
+      "num_layers": 3,
+      "dropout": 0.0,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.03405634648649287,
+      344705,
+      3
+    ],
+    "rank": 3
+  },
+  {
+    "id": "1764780532543_8870",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 32,
+      "num_layers": 4,
+      "dropout": 0.3,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.039576396723004996,
+      27297,
+      4
+    ],
+    "rank": 3
+  },
+  {
+    "id": "1764780132441_107",
+    "genes": {
+      "model_type": "hybrid",
+      "hidden_size": 32,
+      "num_layers": 2,
+      "dropout": 0.3,
+      "bidirectional": false
+    },
+    "fitness": [
+      0.04215079362621132,
+      27297,
+      2
+    ],
+    "rank": 3
+  }
+]
