@@ -2,7 +2,8 @@
 
 **A Global-Scale Multi-Objective Neural Architecture Search for Robust and Efficient Edge-Native Weather Forecasting**
 
-[![Paper](https://img.shields.io/badge/IEEE_QPAIN_2026-Paper_899-blue)](https://ieeexplore.ieee.org)
+[![Paper](https://img.shields.io/badge/IEEE_QPAIN_2026-Paper-blue)](https://ieeexplore.ieee.org/document/11545925/)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.00240-b31b1b)](https://arxiv.org/abs/2602.00240)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-yellow.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org)
@@ -57,7 +58,7 @@ Green-NAS is a multi-objective neural architecture search (NAS) framework that a
 ### 1. Setup
 
 ```bash
-git clone https://github.com/<your-username>/Green-NAS.git
+git clone https://github.com/Muhtasim-Munif-Fahim/Green-NAS.git
 cd Green-NAS
 pip install -r requirements.txt
 ```
